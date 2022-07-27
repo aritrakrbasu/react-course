@@ -1,0 +1,35 @@
+.selected-meme-container
+{
+    display: flex;
+    padding: 30px;
+}
+
+.selected-image
+{
+    height: 220px;
+}
+
+input 
+{
+    width: 300px
+}
+
+.selected-meme-container-left form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.selected-meme-container-left {
+    min-width: 50vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.selected-meme-container-right {
+    min-width: 50vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
